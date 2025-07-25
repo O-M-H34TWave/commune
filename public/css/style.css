@@ -1,5 +1,37 @@
-#logo{
+#logo {
     border-radius: 0px 0px 10px 10px;
     height: 160px;
     float: right;
+    transition: all 0.5s ease-in-out;
+    box-shadow: 3px 2px 10px;
+}
+#logo:hover {
+    box-shadow: 3px 5px 15px;
+}
+.nav-link,
+.nav-item {
+    color: black;
+    transition: all 0.4s ease-in-out;
+    background-color: #f8f9fa;
+}
+.nav-link:hover {
+    color: chocolate;
+}
+
+.bi-grip-vertical {
+    color: chocolate;
+}
+
+.card {
+    float: left;
+    width: 25%;
+}
+
+.card {
+    transition: all 0.5s ease;
+}
+
+.card:hover {
+    padding-left: 5px;
+    padding-right: 5px;
 }
