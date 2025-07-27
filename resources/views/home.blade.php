@@ -45,10 +45,10 @@
                 <div class="col-md-4 d-flex align-items-center">
                     <div class="ms-md-3">
                         <ul class="">
-                            <li class=""><a href="">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a></li>
-                            <li class=""><a href="">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a> </li>
-                            <li class=""><a href="">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a></li>
-                            <li class=""><a href="">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a> </li>
+                            <li class=""><a href="{{route('news')}}">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a></li>
+                            <li class=""><a href="{{route('news')}}">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a> </li>
+                            <li class=""><a href="{{route('news')}}">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a></li>
+                            <li class=""><a href="{{route('news')}}">اخبار الجماعة اخبار الجماعة اخبار الجماعة</a> </li>
                     </div>
                 </div>
             </div>
