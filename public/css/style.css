@@ -11,6 +11,8 @@
     color: black;
     transition: all 0.4s ease-in-out;
     background-color: #f8f9fa;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 .nav-link:hover {
     color: chocolate;
@@ -34,3 +36,12 @@
     box-shadow: 10px 10px;
 }
 
+#infos{
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    border-width: 50%;
+}
+#infos:hover{
+    background-color: coral;
+    color: wheat;
+}
