@@ -31,17 +31,49 @@
     transition: all 0.5s ease;
 }
 
-.card:hover {
-    
-    box-shadow: 10px 10px;
-}
-
-#infos{
+#infos {
     border-radius: 10px;
     background-color: blanchedalmond;
     border-width: 50%;
 }
-#infos:hover{
-    background-color: coral;
-    color: wheat;
+#infos:hover {
+    background-color: navajowhite;
+    color: black;
+}
+
+.allServices {
+    transition: all 0.3s ease-in-out;
+}
+.allServices:hover {
+    background-color: blanchedalmond;
+}
+
+.h3 {
+    border-bottom: 1px solid chocolate;
+}
+
+.footerLink {
+    transition: all 0.4s linear;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin: 2px;
+    text-decoration: none;
+    color: black;
+}
+
+.footerLink:hover {
+    color: chocolate;
+    
+}
+
+#footerImg {
+    transition: all 0.3s ease-in-out;
+}
+
+#footerImg:hover {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 15px;
 }

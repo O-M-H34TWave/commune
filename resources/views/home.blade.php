@@ -59,7 +59,7 @@
                 عدد سكان جماعة امطالسة هو 16،778 نسمة حسب احصاء 2024، وكثافتها السكانية 31.11 نسمة في كم².
             </p>
         </div>
-        <div class="text-end">
+        <div class="text-end mb-5">
             <h1 class="mb-3">نطاق الجماعة<i class="bi bi-grip-vertical"></i>
             </h1>
             <a href="https://www.google.com/maps/place/Mtalssa/@34.8873494,-3.3965004,47135m/data=!3m1!1e3!4m6!3m5!1s0xd76422aa453d88f:0x4d5999ddafe69e67!8m2!3d34.9692825!4d-3.3690572!16s%2Fg%2F120_g1gq!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
