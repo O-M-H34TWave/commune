@@ -15,7 +15,10 @@
 
 <body>
     @include('layout.navbar')
-    <div class="container py-5" style="margin-top: 150px">
+    <div class="container-fluid bg-light services">
+        <h1 class="text-center">خدمات الجماعة</h1>
+    </div>
+    <div class="container py-5">
         <div class="row justify-content-center" id="accordionServices">
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 d-flex justify-content-center ">
