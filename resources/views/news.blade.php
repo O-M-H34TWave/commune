@@ -14,73 +14,87 @@
 <body>
     @include('layout.navbar')
     <div>
-        <h1 class="bg-dark text-light text-center" style="padding: 150px"> NEWS</h1>
+        <h1 class="bg-light text-dark text-center" style="padding: 100px">مستجدات</h1>
     </div>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+    <div class="container">
+        <div class="row justify-content-center gap-4 mb-5 mt-5">
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
-            <div class="col-md-4 mb-5">
-                <div class="card img-fluid" style="width: 300px">
-                    <img src="{{asset('images/mtalssa-logo.png')}}" style="width: 100%" alt="">
-                    <div class="card-img-overlay">
-                        <h4>
-                            news news news news news news
-                        </h4>
-                    </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
+                </div>
+            </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
+                </div>
+            </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
+                </div>
+            </div>
+            <div class="card " style="width: 20rem;">
+                <img src="{{asset('images/mtalssa-logo.png')}}" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5>إعلان عن انعقاد الدورة العادية</h5>
+                    <p>إعلان عن انعقاد الدورة العاديةإعلان عن انعقاد الدورة العادية......</p>
+                    <a href="#" class="btn btn-primary">اقرأ المزيد</a>
                 </div>
             </div>
         </div>
     </div>
     @include('layout.footer')
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>

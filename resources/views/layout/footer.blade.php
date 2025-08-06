@@ -36,9 +36,9 @@
         </div>
 
     </div>
-    <div class="container-fluid pt-5 pb-4 text-center bg-light" dir="rtl">
+    <div class="container-fluid pt-3 pb-4 text-center bg-light" dir="rtl">
         <b style="color: chocolate">
-            2025 © الجماعة القروية امطالسة 
+            2025 © الجماعة القروية امطالسة
         </b>
     </div>
 </footer>
